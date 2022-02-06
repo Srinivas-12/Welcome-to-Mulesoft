@@ -1,0 +1,28 @@
+{
+	"employees":
+	{
+		"employee":
+		[
+		{
+		   "eid":"1234",
+           "ename":"sai",
+           "esal":"45678",
+           "address":
+		         {
+			        "city":"bang",
+					"state":"Karnataka",v
+		         }  		   
+		},
+		{
+		   "eid":"1234",
+           "ename":"sai",
+           "esal":"45678" 		   
+		},
+		{
+		   "eid":"1234",
+           "ename":"sai",
+           "esal":"45678" 		   
+		},
+		]
+	}
+}
